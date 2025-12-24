@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>هیئت جوانان و نوجوانان عاشورایی شهرستان اقلید</title>
+  <style>
+    body {
+      font-family: "Vazir", sans-serif;
+      background-color: #f9f9f9;
+      padding: 20px;
+      text-align: center;
+      color: #333;
+    }
+    h1 {
+      margin-bottom: 30px;
+      color: #d32f2f;
+    }
+    .link-box {
+      display: block;
+      margin: 15px auto;
+      padding: 14px 20px;
+      background-color: #1976d2;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      width: 90%;
+      max-width: 320px;
+      font-weight: bold;
+      transition: background-color 0.3s;
+    }
+    .link-box:hover {
+      background-color: #1565c0;
+    }
+    @import url('https://vazir-fonts.github.io/Vazir-Font/woff2/Vazir-font-face.css');
+  </style>
+</head>
+<body>
+  <h1>هیئت جوانان و نوجوانان عاشورایی شهرستان اقلید</h1>
+
+  <a href="https://eitaa.com/javanan_ashurai_eghlid" target="_blank" class="link-box">کانال اطلاع‌رسانی ایتا</a>
+  <a href="https://eitaa.com/javanan_archive" target="_blank" class="link-box">آرشیو مراسمات در ایتا</a>
+  <a href="https://t.me/javanan_ashurai_eghlid" target="_blank" class="link-box">کانال اطلاع‌رسانی تلگرام</a>
+  <a href="https://t.me/javanan_archive" target="_blank" class="link-box">آرشیو مراسمات در تلگرام</a>
+  <a href="https://www.instagram.com/javanan_ashurai_eghlid?igsh=N2tzc2w1MXBxMTl3" target="_blank" class="link-box">اینستاگرام رسمی هیئت</a>
+  <a href="https://chat.whatsapp.com/BmiiEkcrBAZ2ZZwI2oetNi" target="_blank" class="link-box">کانال هیئت در واتساپ</a>
+</body>
+</html>
